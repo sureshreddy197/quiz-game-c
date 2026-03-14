@@ -130,14 +130,6 @@ On Windows PowerShell:
 $env:QUIZ_LEADERBOARD_PATH = "C:\temp\leaderboard.txt"
 ```
 
-## Why this project looks good on GitHub
-
-- Simple to clone and run
-- Clean folder structure
-- README and community files included
-- CI workflow included
-- Good starter project for C fundamentals, file handling, and modular programming
-
 ## Future Improvements
 
 - Timer-based questions
