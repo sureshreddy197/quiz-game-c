@@ -1,0 +1,19 @@
+# Binaries
+quiz-game
+quiz-game.exe
+*.out
+*.o
+*.obj
+*.exe
+
+# Build folders
+build/
+dist/
+
+# Tooling
+.vscode/
+.idea/
+.DS_Store
+
+# Runtime data
+*.log
